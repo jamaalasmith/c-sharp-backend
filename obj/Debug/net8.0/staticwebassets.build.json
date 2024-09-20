@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "MOPjnf8mwAgL13+xNdyq//XawMIeTgCKWMIP2kAHcgo=",
-  "Source": "c-sharp-backend",
-  "BasePath": "_content/c-sharp-backend",
+  "Hash": "+hqBzHoTkMgWztPz6U192rFgoTOvT/Pli5BflMUy9mo=",
+  "Source": "tenant_portal_api",
+  "BasePath": "_content/tenant_portal_api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

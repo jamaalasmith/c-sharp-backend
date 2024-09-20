@@ -31,3 +31,11 @@
 /Users/jamaalsmith/Repos/c-sharp-backend/obj/Debug/net8.0/c-sharp-backend.pdb
 /Users/jamaalsmith/Repos/c-sharp-backend/obj/Debug/net8.0/c-sharp-backend.genruntimeconfig.cache
 /Users/jamaalsmith/Repos/c-sharp-backend/obj/Debug/net8.0/ref/c-sharp-backend.dll
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.csproj.AssemblyReference.cache
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.AssemblyInfoInputs.cache
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.AssemblyInfo.cs
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.csproj.CoreCompileInputs.cache
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/jamaalsmith/Repos/tenant_portal_api/obj/Debug/net8.0/c-sharp-backend.sourcelink.json

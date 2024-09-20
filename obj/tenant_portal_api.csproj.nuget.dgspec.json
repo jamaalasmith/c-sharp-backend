@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jamaalsmith/Repos/tenant_portal_api/c-sharp-backend.csproj": {}
+    "/Users/jamaalsmith/Repos/tenant_portal_api/tenant_portal_api.csproj": {}
   },
   "projects": {
-    "/Users/jamaalsmith/Repos/tenant_portal_api/c-sharp-backend.csproj": {
+    "/Users/jamaalsmith/Repos/tenant_portal_api/tenant_portal_api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jamaalsmith/Repos/tenant_portal_api/c-sharp-backend.csproj",
-        "projectName": "c-sharp-backend",
-        "projectPath": "/Users/jamaalsmith/Repos/tenant_portal_api/c-sharp-backend.csproj",
+        "projectUniqueName": "/Users/jamaalsmith/Repos/tenant_portal_api/tenant_portal_api.csproj",
+        "projectName": "tenant_portal_api",
+        "projectPath": "/Users/jamaalsmith/Repos/tenant_portal_api/tenant_portal_api.csproj",
         "packagesPath": "/Users/jamaalsmith/.nuget/packages/",
         "outputPath": "/Users/jamaalsmith/Repos/tenant_portal_api/obj/",
         "projectStyle": "PackageReference",

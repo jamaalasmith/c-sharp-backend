@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <InvariantGlobalization>true</InvariantGlobalization>
-    <RootNamespace>c_sharp_backend</RootNamespace>
+    <RootNamespace>tenant_portal_api</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

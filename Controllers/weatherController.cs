@@ -2,7 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Linq;
 
-namespace c_sharp_backend.Controllers
+namespace tenant_portal_api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
